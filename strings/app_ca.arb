@@ -1,0 +1,22 @@
+{
+    "txtWorkoutTitleEmpty": "Si us plau especifica el títol de l'exercici",
+    "txtSettings": "Ajustaments",
+    "txtHowToPerformExercise": "Com es realitza l'exercici (opcional)",
+    "txtExerciseName": "Nom de l'exercici",
+    "txtContributeExerciseExplainer": "Feeel depèn de voluntaris com tu per enviar exercicis i fotografies d'ells. Les fotos que envieu primer es processaran de forma privada, després se li demanarà la seva aprovació i només es publicaran en l'aplicació. Gràcies per contribuir!",
+    "txtSubmitNewExercise": "Contribueix amb un exercici",
+    "txtYoureGlowing": "Estàs brillant!",
+    "txtCategoryLegs": "Cames",
+    "txtCategoryFullBody": "Cos sencer",
+    "txtWorkoutToMakeYouFeelBest": "Dissenya l'entrenament que et faci sentir millor",
+    "txtBeYourOwnCoach": "Siguis el teu propi entrenador!",
+    "txtWorkoutTitle": "Títol de l'entrenament",
+    "txtImageMissing": "Falta imatge",
+    "txtTapForControls": "Toca pels controls",
+    "txtBreak": "Descans!",
+    "txtSecondsLeft5plus": "%d segons restants",
+    "txtLetsGoFirstUp": "Vinga! Primer pas: %s",
+    "txtNextUp": "A continuació:",
+    "txtWorkoutExercisesEmpty": "Si us plau, afegeix al menys 1 exercici",
+    "txtYouDidIt": "Ho has fet!"
+}

@@ -1,0 +1,283 @@
+# Code
+
+Code is licensed under the **GNU AGPL v3 or any later version with an app store exception**, unless specified otherwise. See COPYING for its content.
+
+As an additional permission under section 7, you are allowed to distribute the software through an app store, even if that store has restrictive terms and conditions that are incompatible with the AGPL, provided that the source is also available under the AGPL with or without this permission through a channel without those restrictive terms and conditions.
+
+All unofficial builds and forks of the app must be clearly labeled as unofficial in the app's name (e.g. "Feeel UNOFFICIAL", never just "Feeel") or use a different name altogether. If any code changes are made, the fork should use a completely different name and app icon. All unofficial builds and forks MUST use a different application ID, in order to not conflict with a potential official release.
+
+# Exercise illustrations and descriptions
+
+All exercise descriptions and illustrations are released under the CC BY-SA 4.0 license.
+
+Refer to the lib/db/db_helper.dart file or to the app for individual attributions.
+
+# Images
+**Success image**
+
+Derivative work of:
+
+* Source: https://www.pexels.com/de/foto/meer-strand-sand-frau-56615/
+* License: CC0
+
+**Google Play feature graphic**
+
+Derivative work of:
+
+* Source: https://pixabay.com/en/clean-jerk-sport-clean-jerk-gym-2188461/
+* License: CC0
+
+Exercise illustrations are credited in the lib/db/db_helper.dart file and inside the app.
+
+# Sounds
+
+All derivative works are released under the original recording's license, listed below. The **CC BY-SA** license should cover all of them.
+
+**Exercise/break chime**
+
+Derivative work of:
+
+* Source: https://freesound.org/people/jgreer/sounds/333629/
+* License: CC0
+* Author: jgreer
+
+**Workout finish tune**
+
+Derivative work of:
+
+* Source: https://freesound.org/people/actsofpaint/sounds/371086/
+* License: CC BY 3.0
+* Author: actsofpaint
+* Title: EllenGuitarTada3.wav
+
+**Clock tick**
+
+Derivative work of:
+
+* Source: http://soundbible.com/2044-Tick.html
+* License: CC BY 3.0
+* Author: DeepFrozenApps
+* Title: Tick
+
+# Translations
+
+Translations in "strings/ui" are released under the AGPLv3, those in "strings/exercises" under CC BY-SA 4.0.
+
+## Azerbaijani - both ui and exercise strings
+* Ali Aliyev
+
+## Arabic - both ui and exercise strings
+
+* Rex_sa
+
+## Basque - ui strings
+
+* mondstern
+* Osoitz
+
+## Catalan - ui strings
+
+* Xorxe
+
+## Chinese (Simplified) - ui strings
+
+* Liu Tao
+* proItheus
+* poi
+* aerowolf
+* Eric
+
+## Chinese (Simplified) - exercise strings
+* poi / poipoipoipoipoipoipoipoipoi
+* bxezi
+* Eric
+
+## Croatian - both ui and exercise strings
+
+* Milo Ivir
+
+## Czech - exercise strings
+
+* mondstern
+* Miroslav Mazel
+* Shimon
+
+## Czech - ui strings
+
+* mondstern
+* Miroslav Mazel
+
+## Dutch - both ui and exercise strings
+
+* Heimen Stoffels
+* Daan Vervacke
+* J. Lavoie
+
+## Dutch - exercise strings
+* Heimen Stoffels
+* Daan Vervacke
+* floris van den bosch
+* mondstern
+
+## Esperanto - ui strings
+
+* Jakub Fabijan
+* phlostically
+* mondstern
+
+## Esperanto - exercise strings
+
+* phlostically
+
+## French - exercise strings
+
+* J. Lavoie
+* Jonathan D.
+* Maxime Leroy
+* Clément Mondon
+* mondstern
+* Miroslav Mazel
+
+## French - ui strings
+
+* Max Garret
+* Jonathan D.
+* J. Lavoie
+* mondstern
+* T_Zocker
+
+## German - exercise strings
+
+* mondstern
+* kettenfett
+* Miroslav Mazel
+
+## German - ui strings
+
+* K. Herbert
+* J. Lavoie
+* mondstern
+* mv87
+* premier.lifeboat
+* prem hassel
+* Titus Jonas
+* Roland Geider
+
+## Greek - both ui and exercise strings
+
+* Vangelis Skarmoutsos
+
+## Hebrew - both ui and exercise strings
+
+* Omer I.S.
+
+## Indonesian - exercise strings
+
+* Reza Almanda
+* mondstern
+
+## Indonesian - ui strings
+
+* Reza Almanda
+* SiegbjornSitumeang
+* mondstern
+* liimee
+
+## Italian - exercise strings
+
+* Gianluca Vespignani
+* J. Lavoie
+* mondstern
+* Marco Galli
+* albanobattistella
+
+## Italian - ui strings
+
+* Gianluca Vespignani
+* J. Lavoie
+* Marco Galli
+* albanobattistella
+
+## Persian - both ui and exercise strings
+
+* Mohammad Hossein Tajaddini
+* alefvanoon
+
+## Polish - both ui and exercise strings
+
+* Eryk Michalak
+
+## Portuguese - ui strings
+
+* Rodolfo Candido
+* Eduardo Celino
+* Vinicius Rodrigues
+* mondstern
+* flexagoon
+
+## Portuguese - exercise strings
+
+* Rodolfo Candido
+* Eduardo Celino
+* Vinicius Rodrigues
+* mondstern
+* flexagoon
+* gbpu
+
+## Portuguese (Brazilian) - both ui and exercise strings
+* Jonathan Soares
+* workingsea
+* Rodrigo
+
+## Russian - ui strings
+
+* Artem
+* Invisible Man
+* mondstern
+* flexagoon
+* AHOHNMYC
+* Александр Барышников
+
+## Russian - exercise strings
+* Александр Барышников
+* flexagoon
+
+## Spanish - exercise strings
+
+* Gabriel Tandil
+* Diego Sanguinetti
+* mondstern
+* Luis Alfredo Figueroa Bracamontes
+
+## Spanish - ui strings
+
+* Gabriel Tandil
+* Diego Sanguinetti
+* Sebastián Pujá López
+* martingetzel
+* mondstern
+* Luis Alfredo Figueroa Bracamontes
+
+## Swedish - ui and exercise strings
+* Joel A
+
+## Turkish - exercise strings
+
+* Oğuz Ersen
+* ToldYouThat
+* mondstern
+
+## Turkish - ui strings
+
+* Oğuz Ersen
+
+## Ukranian - ui strings
+
+* Dan
+* Kefir
+
+## Ukranian - exercise strings
+
+* Олександр Стеренкевич
+* Dan
+* Kefir

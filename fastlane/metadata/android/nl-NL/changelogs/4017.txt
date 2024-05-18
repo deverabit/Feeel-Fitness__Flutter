@@ -1,0 +1,10 @@
+Veel nieuwe dingen, waaronder:
+* Kleur-gecodeerde workout categorieën
+* Nieuwe oefeningen
+* Speciale visualisatie van trainingsbeelden met een close-up van een hoofd
+* iOS ondersteuning
+* Nieuwe Arabische vertaling + RTL ondersteuning
+* Nieuwe Kroatische vertaling
+* Thema tweaks
+* Noorse Bokmal is weer verwijderd
+* Diverse bug fixes en vertaling updates
